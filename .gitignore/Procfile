@@ -1,1 +1,1 @@
-worker node ./index.js -Dserver.port=$PORT
+web ./index.js -Dserver.port=$PORT
